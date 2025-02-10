@@ -45,13 +45,6 @@ Output:
 ![image](https://github.com/user-attachments/assets/d419c878-9f51-4c6e-a7cd-ac6bbf917ebb)
 
 
-Problem 07: Load a CSV file of sales data and compute total revenue per product.
-
-Output:
-
-
-
-
 problem 08: Fill missing values in a dataset with column-wise means.
 
 Output:
